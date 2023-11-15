@@ -1,29 +1,62 @@
-<mxfile host="app.diagrams.net" modified="2023-11-15T12:35:44.401Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="6CXy8Yi6bgoR7hj_Vjpm" version="22.1.1" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-15T12:45:51.948Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="uFAhJ9m0av4KctKEuoWG" version="22.1.1" type="github">
   <diagram name="Страница — 1" id="iw_jqMRQtaOPwLfUasVk">
     <mxGraphModel dx="1062" dy="1754" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="RU4GJBCQBOO1Sh4OZ8oV-1" value="Серверное оборудование" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="160" y="-200" width="120" height="40" as="geometry" />
+          <mxGeometry x="160" y="-240" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="RU4GJBCQBOO1Sh4OZ8oV-2" value="СХД" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="280" y="-200" width="120" height="40" as="geometry" />
+          <mxGeometry x="280" y="-240" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="RU4GJBCQBOO1Sh4OZ8oV-3" value="Библиотеки" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="400" y="-200" width="120" height="40" as="geometry" />
+          <mxGeometry x="400" y="-240" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="RU4GJBCQBOO1Sh4OZ8oV-4" value="Сетевое оборудование ЦОД" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="160" y="-160" width="360" height="40" as="geometry" />
+          <mxGeometry x="160" y="-200" width="360" height="40" as="geometry" />
         </mxCell>
         <mxCell id="RU4GJBCQBOO1Sh4OZ8oV-5" value="Оборудование ИБ" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="160" y="-120" width="360" height="40" as="geometry" />
+          <mxGeometry x="160" y="-160" width="360" height="40" as="geometry" />
         </mxCell>
         <mxCell id="RU4GJBCQBOO1Sh4OZ8oV-6" value="Каналообразующее оборудование" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="160" y="-80" width="360" height="40" as="geometry" />
+          <mxGeometry x="160" y="-120" width="360" height="40" as="geometry" />
         </mxCell>
         <mxCell id="RU4GJBCQBOO1Sh4OZ8oV-7" value="Мониторинг" style="rounded=1;whiteSpace=wrap;html=1;rotation=90;" vertex="1" parent="1">
-          <mxGeometry x="502.5" y="-142.5" width="160" height="45" as="geometry" />
+          <mxGeometry x="381.25" y="-263.75" width="402.5" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="RU4GJBCQBOO1Sh4OZ8oV-9" value="Управление инцидентами, проблемами" style="rounded=1;whiteSpace=wrap;html=1;rotation=0;" vertex="1" parent="1">
+          <mxGeometry x="640" y="-200" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="RU4GJBCQBOO1Sh4OZ8oV-10" value="Управление конфигурациями" style="rounded=1;whiteSpace=wrap;html=1;rotation=0;" vertex="1" parent="1">
+          <mxGeometry x="640" y="-150" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="RU4GJBCQBOO1Sh4OZ8oV-11" value="Мобильные устройства" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="-280" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="RU4GJBCQBOO1Sh4OZ8oV-13" value="Рабочие места" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="-280" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="RU4GJBCQBOO1Sh4OZ8oV-14" value="Инженерное оборудование" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="-60" width="360" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="RU4GJBCQBOO1Sh4OZ8oV-15" value="Операционные системы" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="-360" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="RU4GJBCQBOO1Sh4OZ8oV-16" value="СУБД" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="-360" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="RU4GJBCQBOO1Sh4OZ8oV-17" value="Программные решения ИБ" style="rounded=1;whiteSpace=wrap;html=1;rotation=-90;" vertex="1" parent="1">
+          <mxGeometry x="-102.5" y="-263.75" width="402.5" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="RU4GJBCQBOO1Sh4OZ8oV-18" value="Шины" style="rounded=0;whiteSpace=wrap;html=1;rotation=-90;" vertex="1" parent="1">
+          <mxGeometry x="100" y="-420" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="RU4GJBCQBOO1Sh4OZ8oV-19" value="НСИ" style="rounded=0;whiteSpace=wrap;html=1;rotation=90;" vertex="1" parent="1">
+          <mxGeometry x="420" y="-420" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="RU4GJBCQBOO1Sh4OZ8oV-20" value="Управление изменениями" style="rounded=1;whiteSpace=wrap;html=1;rotation=0;" vertex="1" parent="1">
+          <mxGeometry x="640" y="-100" width="160" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
